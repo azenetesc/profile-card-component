@@ -26,7 +26,7 @@ body {
   background-image: url(images/bg-pattern-top.svg),
     url(images/bg-pattern-bottom.svg);
   background-repeat: no-repeat, no-repeat;
-  background-position: right 51vw bottom 20vh, left 45vw top 50vh;
+  background-position: right 50vw bottom 40vh, left 45vw top 52vh;
 }
 
 .card-container {
@@ -35,6 +35,7 @@ body {
   border-radius: 10px;
   overflow: hidden;
   position: relative;
+  box-shadow: 1px 8px 20px 10px rgba(50, 50, 63, 0.144);
 }
 
 .card-header {
