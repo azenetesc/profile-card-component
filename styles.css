@@ -31,7 +31,7 @@ body {
 
 .card-container {
   width: 330px;
-  height: 370px;
+  height: 380px;
   border-radius: 10px;
   overflow: hidden;
   position: relative;
@@ -60,6 +60,7 @@ body {
 }
 
 .profile-name {
+  display: inline;
   font-size: 1.8em;
   font-weight: 700;
   color: var(--very-dark-desaturated-blue);
@@ -87,7 +88,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  height: 90px;
+  height: 100px;
 }
 
 .social {
